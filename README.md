@@ -11,3 +11,14 @@ Run `script.py` using python
 ```bash
 python3 script.py
 ```
+
+### Using Makefile
+
+#### install
+Run `make install` to perform install requirements
+
+#### test
+Run `make test` to run tests.
+
+#### run
+Run `make run` to run app.
